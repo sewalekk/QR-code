@@ -1,0 +1,27 @@
+C:\Users\Şevval Ekinci\Desktop\C#\QR code\QR code\bin\Debug\QR code.exe.config
+C:\Users\Şevval Ekinci\Desktop\C#\QR code\QR code\bin\Debug\QR code.exe
+C:\Users\Şevval Ekinci\Desktop\C#\QR code\QR code\bin\Debug\QR code.pdb
+C:\Users\Şevval Ekinci\Desktop\C#\QR code\QR code\bin\Debug\AForge.dll
+C:\Users\Şevval Ekinci\Desktop\C#\QR code\QR code\bin\Debug\AForge.Math.dll
+C:\Users\Şevval Ekinci\Desktop\C#\QR code\QR code\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Şevval Ekinci\Desktop\C#\QR code\QR code\bin\Debug\AForge.Video.dll
+C:\Users\Şevval Ekinci\Desktop\C#\QR code\QR code\bin\Debug\zxing.dll
+C:\Users\Şevval Ekinci\Desktop\C#\QR code\QR code\bin\Debug\zxing.presentation.dll
+C:\Users\Şevval Ekinci\Desktop\C#\QR code\QR code\bin\Debug\AForge.xml
+C:\Users\Şevval Ekinci\Desktop\C#\QR code\QR code\bin\Debug\AForge.Math.xml
+C:\Users\Şevval Ekinci\Desktop\C#\QR code\QR code\bin\Debug\AForge.Video.xml
+C:\Users\Şevval Ekinci\Desktop\C#\QR code\QR code\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Şevval Ekinci\Desktop\C#\QR code\QR code\bin\Debug\zxing.xml
+C:\Users\Şevval Ekinci\Desktop\C#\QR code\QR code\bin\Debug\zxing.presentation.xml
+C:\Users\Şevval Ekinci\Desktop\C#\QR code\QR code\obj\Debug\QR code.csproj.AssemblyReference.cache
+C:\Users\Şevval Ekinci\Desktop\C#\QR code\QR code\obj\Debug\QR code.csproj.SuggestedBindingRedirects.cache
+C:\Users\Şevval Ekinci\Desktop\C#\QR code\QR code\obj\Debug\QR_code.Form1.resources
+C:\Users\Şevval Ekinci\Desktop\C#\QR code\QR code\obj\Debug\QR_code.Properties.Resources.resources
+C:\Users\Şevval Ekinci\Desktop\C#\QR code\QR code\obj\Debug\QR code.csproj.GenerateResource.cache
+C:\Users\Şevval Ekinci\Desktop\C#\QR code\QR code\obj\Debug\QR code.csproj.CoreCompileInputs.cache
+C:\Users\Şevval Ekinci\Desktop\C#\QR code\QR code\obj\Debug\QR code.csproj.CopyComplete
+C:\Users\Şevval Ekinci\Desktop\C#\QR code\QR code\obj\Debug\QR code.exe
+C:\Users\Şevval Ekinci\Desktop\C#\QR code\QR code\obj\Debug\QR code.pdb
+C:\Users\Şevval Ekinci\Desktop\C#\QR code\QR code\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Şevval Ekinci\Desktop\C#\QR code\QR code\bin\Debug\QRCoder.dll
+C:\Users\Şevval Ekinci\Desktop\C#\QR code\QR code\obj\Debug\QR_code.Form2.resources
